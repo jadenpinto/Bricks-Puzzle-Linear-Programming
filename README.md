@@ -4,7 +4,7 @@ This project uses the GLPK (GNU Linear Programming Kit) library in C to solve th
 
 [![Project Selection Problem](docs/project_selection_problem.PNG)](https://www.cs.princeton.edu/~wayne/cs423/lectures/max-flow-applications)
 
-*Image source: [COS 423: Maximum Flow Applications, Princeton University](https://www.cs.princeton.edu/~wayne/cs423/lectures/max-flow-applications)*
+*Image source: [COS 423: Theory of Algorithms, Maximum Flow Applications, Princeton University](https://www.cs.princeton.edu/~wayne/cs423/lectures/max-flow-applications)*
 
 
 
