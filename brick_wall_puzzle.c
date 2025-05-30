@@ -611,9 +611,6 @@ int *createBrickPosToVarIdxMap(void) {
 }
 
 
-/***************************************************/
-/* YOU SHOULD NOT CHANGE ANYTHING BELOW THIS LINE! */
-/***************************************************/
 
 /* int canBeTaken(int row, int brick) checks if the brick at position brick */
 /* in row can be taken by checking the bricks immediately above (only those) */
