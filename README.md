@@ -2,6 +2,12 @@
 
 This project uses the GLPK (GNU Linear Programming Kit) library in C to solve the Brick Wall Puzzle by formulating it as a linear programming problem. It models the puzzle as a Maximum Flow application known as the Project Selection Problem (Maximum Weight Closure).
 
+[![Project Selection Problem](docs/project_selection_problem.PNG)](https://www.cs.princeton.edu/~wayne/cs423/lectures/max-flow-applications)
+
+*Image source: [COS 423: Maximum Flow Applications, Princeton University](https://www.cs.princeton.edu/~wayne/cs423/lectures/max-flow-applications)*
+
+
+
 ## Prerequisites
 
 - [Cygwin](https://www.cygwin.com/) terminal
