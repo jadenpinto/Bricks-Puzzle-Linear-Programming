@@ -1,6 +1,6 @@
 # Brick Wall Puzzle Solver
 
-This project is a C-based puzzle solver that utilises the GLPK (GNU Linear Programming Kit) library to solve the brick wall puzzle using linear programming 
+This project uses the GLPK (GNU Linear Programming Kit) library in C to solve the Brick Wall Puzzle by formulating it as a linear programming problem. It models the puzzle as a Maximum Flow application known as the Project Selection Problem (Maximum Weight Closure).
 
 ## Prerequisites
 
@@ -21,7 +21,7 @@ This project is a C-based puzzle solver that utilises the GLPK (GNU Linear Progr
 
 ## Running the Code
 
-To run the solver on a set of test input files: bash Copy Edit
+To run the solver on a set of test input files:
 ```bash
 ./puzzle_out Tests/*
 ```
